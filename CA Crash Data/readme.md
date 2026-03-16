@@ -1,1 +1,1 @@
-
+Three bar plots displaying number of vehicle crashes per month, top counties with most crashes, and relationship between severity of crashes and weather condition. A map displaying the location of the crashes in each city along with a short label with the date, severity, and number of people associated with each crash. Widgets allow users to filter by the time period, city, type of collision, and severity of crash. 
