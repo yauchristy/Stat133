@@ -1,1 +1,1 @@
-
+Performs word trend analysis and sentiment score analysis for each chapter in a Harry Potter book and displays the results in two bar graphs Widgets allow users to filter by choosing the Harry Potter book, the chapter range, a specific word for the word trend analysis, and the sentiment lexicon (afinn, bing, nrc, loughran) used to perform the analysis.
